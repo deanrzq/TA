@@ -1,0 +1,133 @@
+@media (max-width: 480px) {
+  .members-container .card {
+      width: calc(50% - 10px); /* Menyesuaikan kartu agar lebih besar pada layar HP */
+  }
+  
+  .insights {
+      grid-template-columns: repeat(2, 1fr); /* Mengurangi jumlah kolom pada layar kecil */
+  }
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  appearance: none;
+  border: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  font-family: poppins, sans-serif;
+  font-size: 12px;
+  background-color: #f9f9f6;
+  user-select: auto;
+  overflow-x: hidden;
+  color: #363949;
+}
+
+header {
+  height: 10%;
+  padding: 5px;
+  background-color: #264414;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.main-container {
+  max-width: fit-content;
+  width: 75%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  gap: 30px;
+  user-select: none;
+}
+
+.main-title {
+  color: #ffffff;
+  font-family: poppins;
+  margin-left: 1rem;
+}
+
+.logo {
+  padding: 3px;
+}
+
+img {
+  width: 3rem;
+  height: 3rem;
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+
+.navbar {
+  height: 5vh;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: #dde255;
+  display: flex;
+  justify-content: flex-end;
+  gap: 5px;
+}
+
+.menu-item {
+  width: 100px;
+  color: #264414;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.menu-item:hover {
+  background: white;
+  color: #dde255;
+}
+
+main {
+  padding: 20px;
+}
+
+.table-container {
+  width: 99%;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #264414;
+  color: white;
+}
+
+.footer {
+  margin-top: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  background-color: #dde255;
+  color: #264414;
+}
