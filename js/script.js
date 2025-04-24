@@ -27,7 +27,25 @@ function updateTable(data) {
 }
 
 // Ambil data saat halaman dimuat
-fetchTDSData();
+  fetch('./json/tdsData.json')
+    .then(response => response.json())
+    .then(data => {
+      const tbody = document.querySelector('#tdsTable tbody');
+      data.forEach(entry => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td>${entry.no}</td>
+          <td>${entry.date}</td>
+          <td>${entry.day}</td>
+          <td>${entry.time}</td>
+          <td>${entry.tds}</td>
+        `;
+        tbody.appendChild(row);
+      });
+    })
+    .catch(error => {
+      console.error('Error loading TDS data:', error);
+    });
 
 // Perbarui data setiap 5 detik
 setInterval(fetchTDSData, 5000);
