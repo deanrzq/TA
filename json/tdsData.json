@@ -1,0 +1,737 @@
+[
+  {
+    "No": 1,
+    "Date": "2025-02-23",
+    "Day": "Sunday",
+    "Time": "17:23:56",
+    "Water TDS (ppm)": 63.50
+  },
+  {
+    "No": 2,
+    "Date": "2025-02-23",
+    "Day": "Sunday",
+    "Time": "17:20:01",
+    "Water TDS (ppm)": 68.97
+  },
+  {
+    "No": 3,
+    "Date": "2025-02-23",
+    "Day": "Sunday",
+    "Time": "17:16:13",
+    "Water TDS (ppm)": 66.88
+  },
+  {
+    "No": 4,
+    "Date": "2025-02-23",
+    "Day": "Sunday",
+    "Time": "17:12:38",
+    "Water TDS (ppm)": 66.37
+  },
+  {
+    "No": 5,
+    "Date": "2025-02-23",
+    "Day": "Sunday",
+    "Time": "17:10:30",
+    "Water TDS (ppm)": 66.80
+  },
+  {
+    "No": 6,
+    "Date": "2025-02-23",
+    "Day": "Sunday",
+    "Time": "17:02:49",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 7,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "20:16:50",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 8,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "20:14:18",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 9,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "20:05:47",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 10,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "20:03:07",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 11,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:59:31",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 12,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:55:54",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 13,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:52:03",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 14,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:50:06",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 15,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:47:14",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 16,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:45:52",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 17,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:40:01",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 18,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:38:23",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 19,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:35:41",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 20,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:32:57",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 21,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:30:17",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 22,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:28:34",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 23,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:25:09",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 24,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "19:23:30",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 25,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:20:33",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 26,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:19:09",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 27,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:17:58",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 28,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:16:02",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 29,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:14:39",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 30,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:12:50",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 31,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:10:41",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 32,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:08:12",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 33,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:06:28",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 34,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:04:10",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 35,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:02:32",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 36,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "18:00:45",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 37,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:53:07",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 38,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:51:46",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 39,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:50:00",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 40,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:47:39",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 41,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:44:03",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 42,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:38:22",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 43,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:37:41",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 44,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:35:06",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 45,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:32:56",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 46,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:30:44",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 47,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:24:08",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 48,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:20:21",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 49,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:18:33",
+    "Water TDS (ppm)": 1381
+  },
+  {
+    "No": 50,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:16:16",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 51,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:15:09",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 52,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:13:53",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 53,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:11:40",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 54,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:09:29",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 55,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:07:19",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 56,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:04:41",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 57,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:02:35",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 58,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:01:59",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 59,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "17:00:02",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 60,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:55:43",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 61,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:53:57",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 62,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:50:42",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 63,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:48:16",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 64,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:46:07",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 65,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:44:17",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 66,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:39:15",
+    "Water TDS (ppm)": 1382
+  },
+  {
+    "No": 67,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:30:48",
+    "Water TDS (ppm)": 1386
+  },
+  {
+    "No": 68,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:28:04",
+    "Water TDS (ppm)": 1386
+  },
+  {
+    "No": 69,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:26:11",
+    "Water TDS (ppm)": 1386
+  },
+  {
+    "No": 70,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:24:00",
+    "Water TDS (ppm)": 1386
+  },
+  {
+    "No": 71,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:22:21",
+    "Water TDS (ppm)": 1386
+  },
+  {
+    "No": 72,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:20:44",
+    "Water TDS (ppm)": 1373
+  },
+  {
+    "No": 73,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:18:03",
+    "Water TDS (ppm)": 1386
+  },
+  {
+    "No": 74,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:16:06",
+    "Water TDS (ppm)": 1373
+  },
+  {
+    "No": 75,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:14:33",
+    "Water TDS (ppm)": 1373
+  },
+  {
+    "No": 76,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:12:51",
+    "Water TDS (ppm)": 1373
+  },
+  {
+    "No": 77,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:10:55",
+    "Water TDS (ppm)": 1373
+  },
+  {
+    "No": 78,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:08:00",
+    "Water TDS (ppm)": 1373
+  },
+  {
+    "No": 79,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:05:41",
+    "Water TDS (ppm)": 1299
+  },
+  {
+    "No": 80,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:04:02",
+    "Water TDS (ppm)": 1299
+  },
+  {
+    "No": 81,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:02:37",
+    "Water TDS (ppm)": 1299
+  },
+  {
+    "No": 82,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "16:00:56",
+    "Water TDS (ppm)": 1299
+  },
+  {
+    "No": 83,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:53:07",
+    "Water TDS (ppm)": 1299
+  },
+  {
+    "No": 84,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:50:35",
+    "Water TDS (ppm)": 1299
+  },
+  {
+    "No": 85,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:45:17",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 86,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:40:23",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 87,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:37:04",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 88,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:34:26",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 89,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:30:48",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 90,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:28:03",
+    "Water TDS (ppm)": 1296
+  },
+  {
+    "No": 91,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:26:11",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 92,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:23:54",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 93,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:20:09",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 94,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:18:44",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 95,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:14:23",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 96,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:12:04",
+    "Water TDS (ppm)": 1388
+  },
+  {
+    "No": 97,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:10:30",
+    "Water TDS (ppm)": 500
+  },
+  {
+    "No": 98,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:07:08",
+    "Water TDS (ppm)": 502
+  },
+  {
+    "No": 99,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:04:00",
+    "Water TDS (ppm)": 500
+  },
+  {
+    "No": 100,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "15:00:36",
+    "Water TDS (ppm)": 500
+  },
+  {
+    "No": 101,
+    "Date": "2025-02-21",
+    "Day": "Friday",
+    "Time": "14:55:19",
+    "Water TDS (ppm)": 500
+  },
+  {
+    "No": 102,
+    "Date": "2025-02-14",
+    "Day": "Jumat",
+    "Time": "20:00:23",
+    "Water TDS (ppm)": 100.37
+  },
+  {
+    "No": 103,
+    "Date": "2025-02-14",
+    "Day": "Jumat",
+    "Time": "18:09:52",
+    "Water TDS (ppm)": 100.37
+  },
+  {
+    "No": 104,
+    "Date": "2025-02-14",
+    "Day": "Jumat",
+    "Time": "16:00:11",
+    "Water TDS (ppm)": 100.37
+  },
+  {
+    "No": 105,
+    "Date": "2025-02-14",
+    "Day": "Jumat",
+    "Time": "12:01:43",
+    "Water TDS (ppm)": 100.37
+  }
+]
