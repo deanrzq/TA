@@ -67,20 +67,23 @@ img {
   margin: auto;
 }
 
-.navbar {
+.navbar button {
   height: 5vh;
   width: 100%;
   position: sticky;
-  top: 0;
+  top: 20;
+  left:20;
   z-index: 100;
   background-color: #dde255;
   display: flex;
   justify-content: flex-end;
-  gap: 5px;
+  gap: 10px;
+  margin-top: 20px;
+  margin-left: 25px;
 }
 
-.menu-item {
-  width: 100px;
+.right-button button {
+  width: 200px;
   color: #264414;
   display: flex;
   justify-content: center;
@@ -88,7 +91,7 @@ img {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.menu-item:hover {
+.right-button button:hover {
   background: white;
   color: #dde255;
 }
