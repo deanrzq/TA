@@ -1,6 +1,6 @@
 @media (max-width: 480px) {
   .members-container .card {
-      width: calc(50% - 10px); /* Menyesuaikan kartu agar lebih besar pada layar HP */
+      width: calc(50% - 10px); /* Menyesuaikan tampilan agar lebih besar pada layar HP */
   }
   
   .insights {
