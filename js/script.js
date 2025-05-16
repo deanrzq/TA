@@ -12,7 +12,7 @@ window.kirimPerintah = kirimPerintah;
 
 
 const tableBody = document.querySelector("#tdsTable tbody");
-console.log("📦 script2.js loaded");
+console.log("📦 script.js loaded");
 
 const historyRef = ref(database, "-historyData/-3GqnUHKpn6NFvHNDhZJGjQycazc2");
 
