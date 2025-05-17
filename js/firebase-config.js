@@ -1,6 +1,6 @@
 // firebase-config.js
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js";
-import { getDatabase, ref, onValue } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-database.js";
+import { getDatabase, set, ref, onValue } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-database.js";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCZW4Dvo0hbAkRdzWPKYWo-eoUV1acNodI",
@@ -15,4 +15,13 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 
+document.getElementById("startBtn").addEventListener("click", () => {
+  set(ref(database, "commands/laser"), "ON")
+  .then(() => {
+      alert("Perintah dikirim ke alat!");
+    })
+    .catch((error) => {
+      console.error("Gagal mengirim perintah:", error);
+    });
+})
 export { database, ref, onValue };
