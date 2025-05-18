@@ -12,16 +12,14 @@ const firebaseConfig = {
   appId: "1:807564095326:android:fce7781ffb3e1dbf3ca9cf"
 };
 
-const app = initializeApp(firebaseConfig);
-const database = getDatabase(app);
-
-document.getElementById("startBtn").addEventListener("click", () => {
-  set(ref(database, "commands/laser"), "ON")
-  .then(() => {
-      alert("Perintah dikirim ke alat!");
+cdocument.getElementById("startBtn").addEventListener("click", () => {
+  set(ref(database, "perintah"), "MULAI")
+    .then(() => {
+      alert("Perintah telah dikirim ke alat!");
     })
     .catch((error) => {
       console.error("Gagal mengirim perintah:", error);
     });
-})
+});
+
 export { database, ref, onValue };
